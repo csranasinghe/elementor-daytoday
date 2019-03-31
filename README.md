@@ -4,7 +4,7 @@
 Elementor - Daytoday is a plugin for [Wordpress](https://wordpress.org/) which is designed to work with [Elementor](https://elementor.com/) page builder. This plugin includes widgets which are used in web development frequently. 
 
 ## Features
-  - Dropdown widget with customizable styles
+  - Elementor dropdown widget with customizable styles
 
 ## Installation
 
