@@ -30,7 +30,7 @@ plugin.php
 
 Elementor-daytoday has following limitations.
 
-| Verions |
+| Versions |
 | ------ |
 | PHP  >= 7.0 |
 | Elementor >= 2.0.0|
