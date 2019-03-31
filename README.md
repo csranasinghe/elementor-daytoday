@@ -11,7 +11,7 @@ Elementor - Daytoday is a plugin for [Wordpress](https://wordpress.org/) which i
 ##### Automatic installation
 - Goto worpress plugin installation page and select choose file
 - Select the `elementor-daytoday.zip` which is located on dist directory
-- Activate the plugin
+- Activate the plugin from wordpress plugins list
 - Find the newly installed widgets in elementor widgets genaral section
 
 ##### Manual installaion
@@ -24,6 +24,8 @@ index.php
 elementor-daytoday.php
 plugin.php
 ```
+- Activate the plugin from wordpress plugins list
+- Find the newly installed widgets in elementor widgets genaral section
 
 
 ## Prerequisite
